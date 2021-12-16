@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\Measurements\Measurements\bin\Release\netcoreapp3.1\win-x86\Measurements.exe
+C:\Users\PC\source\repos\Measurements\Measurements\bin\Release\netcoreapp3.1\win-x86\Measurements.deps.json
+C:\Users\PC\source\repos\Measurements\Measurements\bin\Release\netcoreapp3.1\win-x86\Measurements.runtimeconfig.json
+C:\Users\PC\source\repos\Measurements\Measurements\bin\Release\netcoreapp3.1\win-x86\Measurements.runtimeconfig.dev.json
+C:\Users\PC\source\repos\Measurements\Measurements\bin\Release\netcoreapp3.1\win-x86\Measurements.dll
+C:\Users\PC\source\repos\Measurements\Measurements\bin\Release\netcoreapp3.1\win-x86\Measurements.pdb
+C:\Users\PC\source\repos\Measurements\Measurements\obj\Release\netcoreapp3.1\win-x86\Measurements.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Measurements\Measurements\obj\Release\netcoreapp3.1\win-x86\Measurements.Form1.resources
+C:\Users\PC\source\repos\Measurements\Measurements\obj\Release\netcoreapp3.1\win-x86\Measurements.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Measurements\Measurements\obj\Release\netcoreapp3.1\win-x86\Measurements.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Measurements\Measurements\obj\Release\netcoreapp3.1\win-x86\Measurements.AssemblyInfo.cs
+C:\Users\PC\source\repos\Measurements\Measurements\obj\Release\netcoreapp3.1\win-x86\Measurements.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Measurements\Measurements\obj\Release\netcoreapp3.1\win-x86\Measurements.dll
+C:\Users\PC\source\repos\Measurements\Measurements\obj\Release\netcoreapp3.1\win-x86\Measurements.pdb
+C:\Users\PC\source\repos\Measurements\Measurements\obj\Release\netcoreapp3.1\win-x86\Measurements.genruntimeconfig.cache

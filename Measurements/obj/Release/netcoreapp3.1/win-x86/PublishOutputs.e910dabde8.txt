@@ -1,0 +1,2 @@
+C:\Users\PC\source\repos\Measurements\Measurements\bin\Release\netcoreapp3.1\publish\Measurements.pdb
+C:\Users\PC\source\repos\Measurements\Measurements\bin\Release\netcoreapp3.1\publish\Measurements.exe

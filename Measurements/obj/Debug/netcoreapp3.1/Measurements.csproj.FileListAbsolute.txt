@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\Measurements\Measurements\bin\Debug\netcoreapp3.1\Measurements.exe
+C:\Users\PC\source\repos\Measurements\Measurements\bin\Debug\netcoreapp3.1\Measurements.deps.json
+C:\Users\PC\source\repos\Measurements\Measurements\bin\Debug\netcoreapp3.1\Measurements.runtimeconfig.json
+C:\Users\PC\source\repos\Measurements\Measurements\bin\Debug\netcoreapp3.1\Measurements.runtimeconfig.dev.json
+C:\Users\PC\source\repos\Measurements\Measurements\bin\Debug\netcoreapp3.1\Measurements.dll
+C:\Users\PC\source\repos\Measurements\Measurements\bin\Debug\netcoreapp3.1\Measurements.pdb
+C:\Users\PC\source\repos\Measurements\Measurements\obj\Debug\netcoreapp3.1\Measurements.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Measurements\Measurements\obj\Debug\netcoreapp3.1\Measurements.Form1.resources
+C:\Users\PC\source\repos\Measurements\Measurements\obj\Debug\netcoreapp3.1\Measurements.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Measurements\Measurements\obj\Debug\netcoreapp3.1\Measurements.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Measurements\Measurements\obj\Debug\netcoreapp3.1\Measurements.AssemblyInfo.cs
+C:\Users\PC\source\repos\Measurements\Measurements\obj\Debug\netcoreapp3.1\Measurements.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Measurements\Measurements\obj\Debug\netcoreapp3.1\Measurements.dll
+C:\Users\PC\source\repos\Measurements\Measurements\obj\Debug\netcoreapp3.1\Measurements.pdb
+C:\Users\PC\source\repos\Measurements\Measurements\obj\Debug\netcoreapp3.1\Measurements.genruntimeconfig.cache
